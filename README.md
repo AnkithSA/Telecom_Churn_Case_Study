@@ -25,5 +25,5 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 ## Details of files given
 - TelecomCaseStudy.ipnb : The python file containing the code and data analysis
 - TelecomCaseStudy.pdf : Final Presentation
-- telecom_churn_data.csv : Data worked on
+- telecom_churn_data_zip.zip : Compressed file of the Data set worked on
 - Data+Dictionary-+Telecom+Churn+Case+Study.xlsx : Data Dictionary
